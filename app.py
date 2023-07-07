@@ -1,5 +1,4 @@
 import streamlit as st
-import matplotlib as plt
 import numpy as np
 
 model = np.load('weight.npz')
